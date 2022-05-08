@@ -4,8 +4,8 @@ In this repository, I decided to write a series of .cpp files, each describing s
 I Wrote this software to gain a greater understanding of C++ syntax, and to practice writing in C++
 
 
-TODO  
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+TODO Create a video of my software
+
 
 [Software Demo Video](#)
 
